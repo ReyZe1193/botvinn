@@ -1,0 +1,9 @@
+{
+	"ip":"TrioSanzz.aternos.me",
+	"port": "48216",
+	"name": "Rafli",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
